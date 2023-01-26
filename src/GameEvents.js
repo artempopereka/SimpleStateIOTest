@@ -1,0 +1,30 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.GameEvents = void 0;
+exports.GameEvents = {
+    "GAME_RESTART": "GameEvents.GAME_RESTART",
+    "PLAYER_GOT_AREA": "GameEvents.PLAYER_GOT_AREA",
+    "AI_GOT_AREA": "GameEvents.AI_GOT_AREA",
+    "EMIT_SOLDIERS": "GameEvents.EMIT_SOLDIERS",
+    "STAR_CAMPAIGN": "GameEvents.STAR_CAMPAIGN",
+    "AI_STAR_CAMPAIGN": "GameEvents.AI_STAR_CAMPAIGN",
+    "AI_CAPTURE_PLAYER": "GameEvents.AI_CAPTURE_PLAYER",
+    "CAMPAIGN_STARTED": "GameEvents.CAMPAIGN_STARTED",
+    "CANCEL_CAMPAIGN": "GameEvents.CANCEL_CAMPAIGN",
+    "MOVE_SOLDIERS": "GameEvents.MOVE_SOLDIERS",
+    "MOVE_SOLDIERS_STARTED": "GameEvents.MOVE_SOLDIERS_STARTED",
+    "CAMPAIGN_READY": "GameEvents.CAMPAIGN_READY",
+    "UPDATE_ARROW_POSITION": "GameEvents.UPDATE_ARROW_POSITION",
+    "ADD_SOLDIER_ATTACK": "GameEvents.ADD_SOLDIER_ATTACK",
+    "ADD_AI_ATTACK": "GameEvents.ADD_AI_ATTACK",
+    "ADD_SOLDIER_MOVE": "GameEvents.ADD_SOLDIER_MOVE",
+    "ADD_CAMPAIGN": "GameEvents.ADD_CAMPAIGN",
+    "ADD_NEXT_LINE_SOLDIER": "GameEvents.ADD_NEXT_LINE_SOLDIER",
+    "DECREASE_SOLDIER_AT_HOME": "GameEvents.DECREASE_SOLDIER_AT_HOME",
+    "SOLDIER_FIGHT_ENEMY": "GameEvents.SOLDIER_FIGHT_ENEMY",
+    "BIRTH_SOLDIER_ON_FIGHT_POINT": "GameEvents.BIRTH_SOLDIER_ON_FIGHT_POINT",
+    "SOLDIERS_ENDED": "GameEvents.SOLDIERS_ENDED",
+    "CHECK_AI_CAN_ATTACK": "GameEvents.CHECK_AI_CAN_ATTACK",
+    "CHECK_AREA_SOLDIERS": "GameEvents.CHECK_AREA_SOLDIERS"
+};
+//# sourceMappingURL=GameEvents.js.map
